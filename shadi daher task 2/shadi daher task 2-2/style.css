@@ -1,0 +1,45 @@
+div.big{
+    height: 1000px;
+    background-color: #11970e;
+   
+}
+div.dad{
+     margin: 200px 570px;
+     position: absolute;
+     background-color: #f3f3ef;
+}
+div.chaild{
+color: gray;
+margin: 20px 10px;
+}
+div.chaild2{
+    
+
+}
+input.A{
+    margin: 20px 20px;
+    width: 300px;
+    padding: 10px;
+    display: block;
+}
+nav.K{
+    margin: 5px 0px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid #a9a9a976;
+    background-color: #f3f3ef;
+}
+button.B {
+    width: 90%;
+    margin: 20px 14px;
+    background-color: #11970e;
+    height: 30px;
+    border: none;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+      0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  }
+div.v{
+    margin: 20px 136px;
+    color: grey;
+}
